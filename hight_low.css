@@ -1,0 +1,36 @@
+body{
+    font-family: 'Quantico', sans-serif;
+    padding: 50px;
+    background-color: #caf0f8;
+    color: #023e8a;
+}
+
+#game{
+   text-align: center;
+   display: flex;
+   justify-content: center;
+}
+
+#input{
+    display: flexbox;
+    justify-content: center;
+    height: 250px;
+    width: 320px; 
+    border: 5px #90e0ef outset;
+}
+
+input{
+    background-color: #0096c7;
+    color: white;
+    text-align: center;
+}
+
+button{
+    display: none;
+    background-color: #0096c7;
+    color: white
+}
+
+#button{
+    margin-bottom: 50px;
+}
