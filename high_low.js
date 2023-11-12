@@ -25,7 +25,6 @@ function startGame(){
    }else{
         response.innerHTML = (`That's correct! The number was ${numberToGuess}.`),
         document.getElementById("play_again").style.display = "inline"
-     //    document.getElementById("play_again").innerHTML = ' >'
    }
 
 }
